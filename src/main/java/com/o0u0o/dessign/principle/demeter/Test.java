@@ -8,7 +8,7 @@ package com.o0u0o.dessign.principle.demeter;
 public class Test {
     public static void main(String[] args) {
         Boss boss = new Boss();
-        Teamleader teamleader = new Teamleader();
+        TeamLeader teamleader = new TeamLeader();
 
         boss.commandCheckNumber(teamleader);
     }

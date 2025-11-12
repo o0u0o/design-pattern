@@ -6,9 +6,9 @@ import java.util.List;
 /**
  * 团队领导
  * @author mac
- * @date 2022/2/11 5:32 PM
+ * @since  2022/2/11 5:32 PM
  */
-public class Teamleader {
+public class TeamLeader {
 
     /**
      * 查询课程数量

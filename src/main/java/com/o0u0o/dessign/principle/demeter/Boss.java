@@ -12,7 +12,7 @@ public class Boss {
      * 下指令让teamleader查询客户才能数量
      * @param teamleader
      */
-    public void commandCheckNumber(Teamleader teamleader){
+    public void commandCheckNumber(TeamLeader teamleader){
         // teamLeader去查询课程数量
         teamleader.checkNumberOfCourses();
     }
